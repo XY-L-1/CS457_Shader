@@ -1,0 +1,4 @@
+﻿  sample.cpp
+C:\Users\xiaoy\OneDrive\Desktop\ShaderSampleWindows\sample.cpp(280,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\xiaoy\OneDrive\Desktop\ShaderSampleWindows\Debug\Sample.exe
